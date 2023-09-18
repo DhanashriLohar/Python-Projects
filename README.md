@@ -2,6 +2,18 @@
 ## Project 1: Diwali Sales Analysis
 ![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/74ce434f-b8e4-4d31-8ad7-752598361196)
 ![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/29a415e0-59d2-476b-b89b-991259ce1817)
+![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/b6699c06-cf83-4d4d-bd13-0259ad690a7f)
+![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/d25453b4-0d0e-4d9f-aa28-696c1f4b9702)
+![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/143c92b0-1c46-4c5e-8d6f-307cd7e8c3be)
+![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/80f38afd-7f73-4293-80db-e0f41ed5cce6)
+![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/b10d1c1c-7080-4da4-a2c0-46ebfd88c54c)
+![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/bb6d5589-67d2-42ea-917b-879ad032a216)
+![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/ceac493e-c8f5-4a4e-a488-a0fdfee131d8)
+![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/b3ac4cca-d744-45dc-8296-7aad2ee80804)
+![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/d45d3f86-7592-4040-9498-2355d7adf0f5)
+
+
+
 
 ## Exploratory Data Analysis
 ![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/49f30164-8f77-4f54-8847-52ea3f5a1e35)
