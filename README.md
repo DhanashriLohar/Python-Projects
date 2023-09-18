@@ -12,7 +12,9 @@
 ![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/871f4a8c-0e58-45e6-b299-47034f851ca2)
 ## Exploratory Data Analysis
 ![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/49f30164-8f77-4f54-8847-52ea3f5a1e35)
-
+![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/c3e9c1e4-5c92-4197-9ef3-05467552c573)
+![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/90d114a5-4464-4cd7-a6a0-86bf5d890214)
+# from the above graph we can see that most of the buyers are female.
 
 
 
