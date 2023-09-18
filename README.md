@@ -7,9 +7,7 @@
 ![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/f9b53b83-1f99-49d6-85b9-2ff7dc487bdd)
 ![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/f9c86611-e7b7-41c5-a280-cd9264667d32)
 ![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/c16f66e3-7d33-41bd-967f-86d085af2fa4)
-
 ![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/4c5d0528-2e97-42e9-9e2a-d150ca2d15fb)
-
 ![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/cbdfa677-cdc6-48a0-81b9-63af3dc1d25d)
 
 
