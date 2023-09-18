@@ -22,7 +22,16 @@
 ![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/15d43b94-7b2b-4303-967a-06d124370443)
 ![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/596354e1-a676-4c95-bdbc-7a034409f664)
 ![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/41e32dc4-05d0-44b0-90d9-16e32bed5838)
-![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/c898f04d-ab16-452a-a939-b6535db1d775)
+![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/22277278-f8ae-49d4-b20f-972f83fb3a51)
+![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/7aa8741e-2179-4408-90ee-01355eb8ba96)
+![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/dfe215e6-0c9f-4d26-a042-c5e0dc6c87f1)
+![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/eba0b198-3b6a-4ebd-8cb4-c27818f096aa)
+![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/267290c0-d7e5-4b08-96e6-7c2427ed9ba1)
+![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/562a87e8-120e-468f-98c6-4ded92617390)
+![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/f436f740-70c4-4e3e-b720-3e59b5eb385f)
+
+
+
 
 
 
