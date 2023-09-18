@@ -14,7 +14,11 @@
 ![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/49f30164-8f77-4f54-8847-52ea3f5a1e35)
 ![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/c3e9c1e4-5c92-4197-9ef3-05467552c573)
 ![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/90d114a5-4464-4cd7-a6a0-86bf5d890214)
-# from the above graph we can see that most of the buyers are female.
+![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/34f3e1f9-8672-427f-acea-d7b5cdca8d54)
+![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/56645d20-3b0d-4a61-a369-b4491e028192)
+![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/6ea3204b-4475-476f-9414-57263fcf7ecc)
+![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/42c44570-8c66-4ea8-8f2e-2fa81209e84b)
+
 
 
 
