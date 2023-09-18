@@ -2,7 +2,7 @@
 ## Project 1: Diwali Sales Analysis
 ![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/74ce434f-b8e4-4d31-8ad7-752598361196)
 ![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/29a415e0-59d2-476b-b89b-991259ce1817)
-![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/b6699c06-cf83-4d4d-bd13-0259ad690a7f)
+![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/5f2ba6d4-03b6-45b1-aff1-032091b4a7b9)
 ![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/d25453b4-0d0e-4d9f-aa28-696c1f4b9702)
 ![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/143c92b0-1c46-4c5e-8d6f-307cd7e8c3be)
 ![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/80f38afd-7f73-4293-80db-e0f41ed5cce6)
