@@ -11,11 +11,7 @@
 ![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/ceac493e-c8f5-4a4e-a488-a0fdfee131d8)
 ![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/b3ac4cca-d744-45dc-8296-7aad2ee80804)
 ![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/d45d3f86-7592-4040-9498-2355d7adf0f5)
-
-
-
-
-## Exploratory Data Analysis
+# Exploratory Data Analysis
 ![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/49f30164-8f77-4f54-8847-52ea3f5a1e35)
 ![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/c3e9c1e4-5c92-4197-9ef3-05467552c573)
 ![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/90d114a5-4464-4cd7-a6a0-86bf5d890214)
