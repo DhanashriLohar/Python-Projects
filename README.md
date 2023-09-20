@@ -1,7 +1,8 @@
 # Python-Projects
 ## Project 1: Diwali Sales Analysis
-![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/97fa22db-4f78-4790-9c16-49cc67866158)
-![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/0fd5b1d4-778d-49ea-847d-4a30a67b1ac4)
+![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/eab285df-2467-45ac-9378-c6e628ff3c06)
+![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/05caa9a5-47ee-4ec0-876f-85406c7285dc)
+
 
 
 # Exploratory Data Analysis
