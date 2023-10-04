@@ -30,6 +30,8 @@
 ![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/8b2c60d2-d933-4ab0-b643-75432454175a)
 ![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/b803682a-19d5-44bf-b3aa-ab633de4129a)
 ![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/274a0b66-549c-4334-ae1d-3d8cce7aa22b)
+![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/6ba62506-c035-4fd6-b031-81abeaac3e69)
+![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/371bb3c5-26cf-4a28-bc73-be9bc6f2187d)
 
 
 
