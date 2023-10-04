@@ -16,7 +16,8 @@
 ![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/3f2d738c-a557-4c64-a417-1587fce6cea4)
 ![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/50b4bd1d-c96f-463d-a94d-8c21933c1258)
 
-
+## Project 2: Hotel Booking Analysis
+![image](https://github.com/DhanashriLohar/Python-Projects/assets/114569069/d17ec8a2-6608-48b9-aa87-50694def1845)
 
 
 
